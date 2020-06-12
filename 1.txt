@@ -1,2 +1,3 @@
 hello
+nice
 612 test 3
